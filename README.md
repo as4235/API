@@ -15,7 +15,7 @@ AUTH0_CLIENT_SECRET=
 
 ## To run the app locally
 
-```bash
+```
 npm install
 npm run dev
 ```
